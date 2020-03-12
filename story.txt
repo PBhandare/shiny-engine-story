@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 to turn the coil
 or end the toil
 that is the foil
@@ -14,3 +15,9 @@ yeet the coil
 put the car in the foil
 don't forget to boil
 lastly, eat the soil
+=======
+Once upon a time, there was a driver. This driver drove a brand new bike.
+In this bike, was a spotless shiny engine. It definitely blinded the
+nearby drivers. As a result, they all gave the bike's rider priority. What
+a time to have a shiny engine.
+>>>>>>> baba4931f0ebc978182be934eee1df4a36db5d6b
