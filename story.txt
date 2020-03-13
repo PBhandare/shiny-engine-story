@@ -15,7 +15,9 @@ yeet the coil
 put the car in the foil
 don't forget to boil
 lastly, eat the soil
-=======
+
+Note: Poem from first edit, misread assignment
+
 Once upon a time, there was a driver. This driver drove a brand new bike.
 In this bike, was a spotless shiny engine. It definitely blinded the
 nearby drivers. As a result, they all gave the bike's rider priority. What
@@ -28,4 +30,6 @@ that there would be a merge conflict when trying to get on the expressway.
 The conflict was only resolved when a nearby policeman, equipping himself
 with the latest model of shiny engine-proof sunglasses, pulled the driver
 aside and said, "Git off mah street."
->>>>>>> baba4931f0ebc978182be934eee1df4a36db5d6b
+
+The bike rider took his journey on the grass instead. What a time to have a 
+shiny engine.
