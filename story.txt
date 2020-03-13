@@ -24,4 +24,8 @@ a time to have a shiny engine.
 As a result, the bike rider rode with his shiny engine and tried to merge onto
 the expressway. However, due to other riders being blinded, it would prove
 that there would be a merge conflict when trying to get on the expressway.
+
+The conflict was only resolved when a nearby policeman, equipping himself
+with the latest model of shiny engine-proof sunglasses, pulled the driver
+aside and said, "Git off mah street."
 >>>>>>> baba4931f0ebc978182be934eee1df4a36db5d6b
